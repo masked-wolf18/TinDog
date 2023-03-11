@@ -1,0 +1,169 @@
+#title {
+    background-color: #ff4c68;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Montserrat',
+        sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 5% 15%;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-nav {
+    font-size: 20px;
+
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+
+.dwnl-btn {
+    margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    width: 56%;
+    transform: rotate(21deg);
+
+    margin: 3rem 5rem -11rem;
+}
+
+.container-fluid {
+
+    overflow: hidden;
+
+}
+
+#cta{
+    background-color: #ff4c68;
+    font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+        font-size: 1.5rem;
+            color: #fff;
+            padding: 70px;
+}
+
+
+.fa-brands {
+    margin-right: 15px;
+}
+
+/* features section */
+
+h3 {
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Montserrat',
+        sans-serif;
+        line-height: 1.5;
+    
+}
+
+.fa-solid {
+    color: #ef8172;
+
+}
+
+.fa-solid:hover {
+    color: #ff4c68;
+    margin-bottom: 1rem;
+}
+
+#features {
+    text-align: center;
+    padding: 7rem;
+}
+
+.fp {
+    color: #8f8f8f;
+    width: 60%;
+    margin: auto;
+}
+
+/* Testimonials */
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #ffffff;
+}
+
+.testimonial-img{
+    /* width: 10%; */
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.com-img{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col{
+    padding: 3% 2%;
+}
+
+.hue{
+    width: 45%;
+    margin: auto;
+}
+
+.button-call{
+    margin: 50px 3px 0 30px;
+}
+
+#footer{
+    background-color: #fff;
+    padding: 30px;
+}
